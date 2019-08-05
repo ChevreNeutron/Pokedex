@@ -1,36 +1,18 @@
 # Pokédex
 
-One Paragraph of project description goes here
+This application simply shows a list of Pokémon, with some details about each and an image to illustrate them.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Launch the application, scroll through the list of Pokémon and click on one of them to view its features.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+All you need is a Smartphone running Android, with a SDK version greater than or equal to 15.
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
+Run the APK file downloaded from the site, or install it from the Play Store.
 
 ## Built With
 
