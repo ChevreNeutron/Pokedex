@@ -6,7 +6,7 @@ This application simply shows a list of Pokémon, with some details about each a
 
 Launch the application, scroll through the list of Pokémon 
 
-<img src="https://github.com/ChevreNeutron/Pokedex/blob/master/Screenshot_20190805-225024.jpg" alt="drawing" width="200"/>
+<img src="https://github.com/ChevreNeutron/Pokedex/blob/master/Screenshot_20190805-225024.jpg" alt="drawing" width="220"/>
 
 And click on one of them to view its features.
 
