@@ -4,7 +4,11 @@ This application simply shows a list of Pokémon, with some details about each a
 
 ## Getting Started
 
-Launch the application, scroll through the list of Pokémon and click on one of them to view its features.
+Launch the application, scroll through the list of Pokémon 
+
+![Zozor](http://uploads.siteduzero.com/files/420001_421000/420263.png)
+
+And click on one of them to view its features.
 
 ### Prerequisites
 
