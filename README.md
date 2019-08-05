@@ -10,6 +10,10 @@ Launch the application, scroll through the list of Pokémon
 
 And click on one of them to view its features.
 
+<img src="https://github.com/ChevreNeutron/Pokedex/blob/master/pokemon_details.jpg" alt="drawing" width="220"/>
+
+(Future improvements to come).
+
 ### Prerequisites
 
 All you need is a Smartphone running Android, with a SDK version greater than or equal to 16.
