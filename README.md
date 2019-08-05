@@ -38,7 +38,7 @@ End with an example of getting some data out of the system or using it for a lit
 
 ## Authors
 
-* **Lucas HERVOUET** [PurpleBooth](https://github.com/ChevreNeutron)
+* **Lucas HERVOUET** [ChevreNeutron](https://github.com/ChevreNeutron)
 
 ## License
 
