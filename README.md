@@ -6,7 +6,7 @@ This application simply shows a list of Pokémon, with some details about each a
 
 Launch the application, scroll through the list of Pokémon 
 
-![Zozor](http://uploads.siteduzero.com/files/420001_421000/420263.png)
+![Home page](https://github.com/ChevreNeutron/Pokedex/blob/master/Screenshot_20190805-225024.jpg)
 
 And click on one of them to view its features.
 
