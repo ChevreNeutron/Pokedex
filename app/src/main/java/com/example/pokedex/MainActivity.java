@@ -21,12 +21,7 @@ import com.example.pokedex.models.Pokemon;
 import com.example.pokedex.models.PokeapiResponse;
 import com.example.pokedex.pokeapi.PokeapiService;
 
-import com.example.pokedex.pokeapi.PokeapiService;
-
 public class MainActivity extends AppCompatActivity {
-
-    private String flag = "test tchoin";
-    private String flag2 = "test poireau";
 
     private int offset;
     private boolean suitableForLoading;
@@ -112,7 +107,6 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
-
     private void configureOnClickRecyclerView(){
         ItemClickSupport.addTo(recyclerView, R.layout.activity_main)
                 .setOnItemClickListener(new ItemClickSupport.OnItemClickListener() {
@@ -122,6 +116,7 @@ public class MainActivity extends AppCompatActivity {
                         Toast.makeText(getBaseContext(), "You clicked on "+pokemon.getName(), Toast.LENGTH_SHORT).show();
                         Log.e("TAG", "Position : "+position);
                         Intent details = new Intent(MainActivity.this, PokemonDetails.class);
+                        details.putExtra("key", pokemon.getName());
                         startActivity(details);
                     }
                 });
