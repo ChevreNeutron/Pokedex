@@ -12,7 +12,7 @@ And click on one of them to view its features.
 
 ### Prerequisites
 
-All you need is a Smartphone running Android, with a SDK version greater than or equal to 15.
+All you need is a Smartphone running Android, with a SDK version greater than or equal to 16.
 
 ### Installing
 
